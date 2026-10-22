@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/jakob-echtle-a5998832b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=echtlejakob&style=for-the-badge&color=2F81F7&label=Profilaufrufe" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DEIN-USERNAME.DEIN-USERNAME&left_text=Profilaufrufe&left_color=%23555555&right_color=%232F81F7" />
 </p>
 
 </div>
